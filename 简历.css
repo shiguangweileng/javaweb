@@ -1,0 +1,40 @@
+@charset "utf-8";
+.div-a{ line-height:30px;color:whitesmoke;background-color: #6495ED;width:800px;text-align: center}
+        .div-b{ line-height:30px;color:black;width:180px;float: left ;margin-left: 5px;}
+        .div-c{ line-height:15px;color:black;width:250px;float: left ;margin-left: 5px;}
+        .div-d{ line-height:30px;color:black;width:800px;float: left ;margin-left: 5px;}
+        .div-f{ line-height:30px;color:whitesmoke;background-color: 	#00008B;width:600px;text-align: center}
+
+        #wrapper {
+        max-width: 850px;
+        margin: 20px auto 20px;
+        padding: 5px 50px 10px 50px;
+        background: 	#FFFFF0;
+        box-shadow: 0 1px 3px rgba(0,0,0,.1);
+        position: relative;
+    }
+    /* 简历内容边框 */
+
+    #wrapper1 {
+        max-width: 650px;
+        margin: 5px auto 15px;
+        padding: 5px 100px 10px 100px;
+        background: 	#FFFFF0;
+        box-shadow: 0 1px 1px rgba(0,0,0,.1);
+        position: relative;
+    }
+    /* 简历标题边框 */
+    .center {
+  margin: auto;
+  
+  width: 66%;
+}
+/* 居中 */
+
+
+    .center1 {
+  margin: auto;
+  
+  width: 45%;
+    }
+    
